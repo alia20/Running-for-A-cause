@@ -1,0 +1,47 @@
+nav {
+}
+nav ul {
+    width: 100%;
+    float: left;
+    margin: 0 0 0 0;
+    padding: 0;
+    list-style: none;
+    background-color: white
+    border-top: 1px solid white;
+}
+
+nav ul li {
+    float: left;
+}
+
+nav ul li a {
+    display: block;
+    padding: 8px 15px;
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+    border-right: 1px solid black;
+}
+
+#headerImage {
+    width: 100%;
+    
+}
+
+article {
+    background-color:  white;
+    padding-top: 5px;
+
+}
+
+footer {
+    background-color: black;
+    color:white;
+    padding-top: 5px;
+
+}
+
+table, th, td {
+   border: 2px;
+   padding: 5px;
+}
